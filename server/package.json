@@ -5,7 +5,7 @@
   "description": "AI Generator",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
